@@ -1,0 +1,17 @@
+{
+    "name": "czx0007/captcha",
+    "description": "this is captcha test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "czx0007",
+            "email": "xxx@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload": {
+		"psr-4": {"czx0007\\captcha\\":"src"} 
+	}
+}
